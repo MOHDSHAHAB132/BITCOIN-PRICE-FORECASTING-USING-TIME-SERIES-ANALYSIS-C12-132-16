@@ -1,0 +1,2 @@
+# BITCOIN-PRICE-FORECASTING-USING-TIME-SERIES-ANALYSIS-C12-132-16
+The emergence of Bitcoin as a pioneering cryptocurrency has transformed financial markets, garnering widespread interest from academicians, policymakers, and investors. The market's inherent volatility and the rapid integration of public information into price movements continue to present a formidable challenge in accurately forecasting Bitcoin
